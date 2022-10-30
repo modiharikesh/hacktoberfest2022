@@ -25,7 +25,7 @@ For this task all required information is in the [Task 4](Task4) folder. Present
         <body>
             <div id="<username>_techstack">
                 <p class="tech_stack_item">
-                    Figma
+                    Figma max canvaa
                 </p>
                 <p class="tech_stack_item">
                     UI/UX
