@@ -1,5 +1,3 @@
-[
-    ["University of Engineering and Management Jaipur", "B.Tech Computer Science", "2020", "present"],
 
     ["Board of Highschool and intermediate education", "Highschool", "2018", "2019"],
     ["ABV IIITM Gwalior", "B.Tech in Computer Science", "2021", "present"],
