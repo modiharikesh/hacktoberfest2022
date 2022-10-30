@@ -15,6 +15,8 @@ Here, all you need is put your social media handles as follows:
         git checkout master
 
         git branch -M task2
+        
+        follow the hacktobersfest
     ```
 - Declare a variable for your socials as `<username>_socials`
 - Follow the defined structure
