@@ -5,6 +5,7 @@
     "hacktoberfest_round": "second",
     "role": ["contributor"]
   },
+
   {
     "name": "Baimam Boukar Jean Jacques",
     "github_handle": "baimamboukar",
@@ -359,5 +360,13 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+ 
   }
+  {
+  {
+    "name": "Shizuka",
+    ,
+    "hacktoberfest_round": "1st",
+    "role": ["contributor"]
+  }}
 ]
