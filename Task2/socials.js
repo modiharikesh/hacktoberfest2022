@@ -63,7 +63,7 @@
       "twitter_handle": "ngumihfien",
       "likedin_handle": "Ngumih Fien",
       "facebook": "Ngumih Fien",
-      "telegram_handle": "Fien"
+      "telegram_handle": "Fien"//ggiyrefhffh
     },
     gouravchawla334_socials = {
       "twitter_handle": "",
