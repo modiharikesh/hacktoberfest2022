@@ -11,7 +11,12 @@
     ["Institute Of Technical Education and Research","Electronics and Communication and Technology", "Bachelor of Technology", "2016", "2020"]
     ["University of Bamenda", "Nahpi", "2019", "present"],
     ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],        
-    ["university of bamenda", "Nahpi", "2019", "present"],
+
+    
+        ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],        
+
+        \    ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],        
+["university of bamenda", "Nahpi", "2019", "present"],
     ["Board of Technical Education", "Polytechnic Diploma", "2019", "2022"],
     ["Board of Highschool and intermediate education", "Highschool", "2018", "2019"],
     ["ABV IIITM Gwalior", "B.Tech in Computer Science", "2021", "present"],
