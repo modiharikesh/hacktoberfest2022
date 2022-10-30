@@ -18,7 +18,7 @@ For task 1, follow these instructions below:
                 "hacktoberfest_round": "third",
                 "role": [
                     "maintainer",
-                    "contributor"
+                    "contributor"//contributerrrrr
                 ]
             },
             {
