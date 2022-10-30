@@ -11,11 +11,22 @@
 	"telegram_handle": "bsquarejj",
 	"instagram": "baimamboukar"
      },
+	 spykelionel_socials = {
+        "twitter_handle": "spykelionel",
+        "likedin_handle": "ndilionel6",
+        "telegram_handle": "spykelionel",
+        "instagram": "spykelionel"
 
     rupali_codes_socials = {
         "twitter_handle": "harikesh",
         "likedin_handle": "thats",
         "telegram_handle": "nope",
+        "instagram": ""
+	    
+	        rupali_codes_socials = {
+        "twitter_handle": "harikesh",
+        "likedin_handle": "zaras",
+        "telegram_handle": "fara",
         "instagram": ""
     },
    imyogeshgaur_socials = {

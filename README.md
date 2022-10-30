@@ -9,10 +9,6 @@ Hacktoberfest is a month-long celebration of open source software. Anyone can pa
 
 >> Note: This repository will be respecting the [Hacktoberfest Code of Conduct](https://hacktoberfest.digitalocean.com/details#conduct), the [GDSC Code of Conduct](https://gdsc.community.dev/participation-terms/) and [conventional commits](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/).
 
-## Participating universities
-- University Of Buea
-- University of Yaounde
-- University of Bamenda
 
 ## Contributions
 
@@ -29,7 +25,7 @@ There are 4 Tasks available and each task will be considered as valid by the Hac
         git branch -M task1
 
         git checkout task1
-    ```
+    ``` find my device for you 
 
 - [**Task 1 (Introduction)**](./Task1/README.md)
 

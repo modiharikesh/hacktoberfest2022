@@ -1,12 +1,4 @@
-[
-    ["University of Engineering and Management Jaipur", "B.Tech Computer Science", "2020", "present"],
-    ["Krishna Engineering College", "Bachelor Of Technology", "2018", "2022"],
-    ["The ICT University", "Bachelor of Science in Computer Science", "2020", "present"],
-    ["Board of Technical Education", "Polytechnic Diploma", "2019", "2022"],
-    ["Board of Highschool and intermediate education", "Highschool", "2018", "2019"],
-    ["ABV IIITM Gwalior", "B.Tech in Computer Science", "2021", "present"],
-    ["Public School Darbhanga", "Higher Secondary Education", "2019", "2021"],
-    
+
     ["university of São Paulo", "Information System", "2017", "2020"],
     ["Chandigarh College of Engineering and Technology", "B.E. in Computer Science", "2020", "present"],
     ["university of mauritius", "Computer Science", "2018", "2021"],
@@ -20,6 +12,10 @@
     ["University of Bamenda", "Nahpi", "2019", "present"],
     ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],        
     ["university of bamenda", "Nahpi", "2019", "present"],
+    ["Board of Technical Education", "Polytechnic Diploma", "2019", "2022"],
+    ["Board of Highschool and intermediate education", "Highschool", "2018", "2019"],
+    ["ABV IIITM Gwalior", "B.Tech in Computer Science", "2021", "present"],
+    ["Public School Darbhanga", "Higher Secondary Education", "2019", "2021"],
     ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],
     ["University of bamenda, Bachelor of software engineering", "COLTECH", "2021", "present"],
     ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],   
