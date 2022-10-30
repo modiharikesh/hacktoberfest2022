@@ -151,9 +151,7 @@ There are 4 Tasks available and each task will be considered as valid by the Hac
                 </p>
             </div>
             <div id="yokwejuste_techstack">
-                <p class="tech_stack_item">
-                    ReactJs
-                </p>
+                <p class="
                 <p class="tech_stack_item">
                     Django
                 </p>
