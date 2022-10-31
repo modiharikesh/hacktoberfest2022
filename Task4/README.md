@@ -14,7 +14,7 @@ For this task all required information is in the [Task 4](Task4) folder. Present
 
     git branch -M task4
 ```
-- Contribute using the format below
+
 ```html
     <html>
         <head>
@@ -23,9 +23,7 @@ For this task all required information is in the [Task 4](Task4) folder. Present
             </title>
         </head>
         <body>
-            <div id="<username>_techstack">
-                <p class="tech_stack_item">
-                    Figma
+
                 </p>
                 <p class="tech_stack_item">
                     UI/UX
@@ -38,8 +36,7 @@ For this task all required information is in the [Task 4](Task4) folder. Present
                 <p class="tech_stack_item">
                     ReactJs
                 </p>
-                <p class="tech_stack_item">
-                    Django
+                <p o
                 </p>
                 <p class="tech_stack_item">
                     Flask
