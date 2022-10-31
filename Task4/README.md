@@ -23,9 +23,7 @@ For this task all required information is in the [Task 4](Task4) folder. Present
             </title>
         </head>
         <body>
-            <div id="<username>_techstack">
-                <p class="tech_stack_item">
-                    Figma canvaaa hacktoberfest
+
                 </p>
                 <p class="tech_stack_item">
                     UI/UX
