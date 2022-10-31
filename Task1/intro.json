@@ -355,10 +355,16 @@
  
   }
   {
-  {
     "name": "Shizuka",
-    ,
     "hacktoberfest_round": "1st",
     "role": ["contributor"]
-  }}
+  },
+  {
+    "name": "Saurabh Singh",
+    "github_handle": "saurabh042",
+    "hacktoberfest_round": "second",
+    "role": [
+      "contributor"
+    ]
+  }
 ]
