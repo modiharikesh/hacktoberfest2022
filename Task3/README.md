@@ -8,7 +8,7 @@ For this task all required information is in the [Task 3](Task3) folder. Present
 
 ## Contribution
 
-Before anything else change the branch and make a new one from the `master branch`.
+Before anything else change the branch and make a new one from the `master branch`./ohjghghack
 ```bash
         git checkout master
 
