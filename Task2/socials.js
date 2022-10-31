@@ -106,6 +106,13 @@ dibyajittripathy_socials = {
     "instagram": "kshitij.v256",
     "telegram_handle": "",
   },	
+	spykelionel_socials = {
+        "twitter_handle": "spykelionel",
+        "likedin_handle": "ndilionel6",
+        "telegram_handle": "spykelionel",
+        "instagram": "spykelionel"
+    },
+    bai
  MRDHRUV_socials = {
       "twitter_handle": "",
       "likedin_handle": "dhruv-gupta-55034a228",
