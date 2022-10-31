@@ -3,9 +3,6 @@
  
   },
 
- third",
-    "role": ["contributor", ""]
-  },
   {
     "name": "Abhinab Pratap Singh Chauhan",
     "github_handle": "generalchauhan",
@@ -22,11 +19,7 @@
     "name": "Yogesh Gaur",
     "github_handle": "imyogeshgaur",
     "hacktoberfest_round": "first",
-    "role": ["contributor"]
-  },
-  {
-    "name": "Nyong Godwill",
-    "github_handle": "godsakani",
+    "godsakani",
     "hacktoberfest_round": "second",
     "role": ["contributor"]
   },
