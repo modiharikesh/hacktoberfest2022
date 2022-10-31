@@ -24,16 +24,9 @@
         "instagram": ""
 	    
 	        rupali_codes_socials = {
-        "twitter_handle": "harikesh",
-        "likedin_handle": "zaras",
-        "telegram_handle": "fara",
-        "instagram": ""
-    },
+ 
    imyogeshgaur_socials = {
-        "twitter_handle": "imyogeshgaur",
-        "likedin_handle": "imyogeshgaur",
-        "facebook": "",
-        "telegram_handle": "imyogeshgaur"
+ 
     },
    shubh045_socials = {
         "twitter_handle": "shubhM_4",
