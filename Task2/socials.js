@@ -1,7 +1,4 @@
-[
-onel",
-        "instagram": "spykelionel"
-    },
+
     baimamboukar_socials = {
 	"twitter_handle": "baimamjj",
 	"likedin_handle": "baimamboukar",
