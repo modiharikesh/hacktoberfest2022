@@ -2,7 +2,6 @@
     ["university of mauritius", "Computer Science", "2018", "2021"],
     ["university of bamenda", "Nahpi", "2019", "present"],
     ["university of bamenda", "Nahpi", "2019", "present"],
-    ["State Institute of engineering and Technology ", "Nilokheri", "2018", "present"],
   
 
     ["Board of Technical Education", "Polytechnic Diploma", "2019", "2022"],
