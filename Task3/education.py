@@ -1,6 +1,4 @@
-
-    ["university of São Paulo", "Information System", "2017", "2020"],
-    ["Chandigarh College of Engineering and Technology", "B.E. in Computer Science", "2020", "present"],
+"Chandigarh College of Engineering and Technology", "B.E. in Computer Science", "2020", "present"],
     ["university of mauritius", "Computer Science", "2018", "2021"],
     ["university of bamenda", "Nahpi", "2019", "present"],
     ["university of bamenda", "Nahpi", "2019", "present"],
@@ -10,7 +8,10 @@
     ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],
     ["Institute Of Technical Education and Research","Electronics and Communication and Technology", "Bachelor of Technology", "2016", "2020"]
     ["University of Bamenda", "Nahpi", "2019", "present"],
-    ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],        
+    ["University School of Information, Communication and Technology", "Bachelor o
+     \
+    ["university of São Paulo", "Information System", "2017", "2020"],
+    [f Technology", "2021", "present"],        
     ["university of bamenda", "Nahpi", "2019", "present"],
     ["Board of Technical Education", "Polytechnic Diploma", "2019", "2022"],
     ["Board of Highschool and intermediate education", "Highschool", "2018", "2019"],
