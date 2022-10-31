@@ -14,12 +14,7 @@ For task 1, follow these instructions below:
         [
             {
                 "name": "Steve Yonkeu",
-                "github_handle": "yokwejuste",
-                "hacktoberfest_round": "third",
-                "role": [
-                    "maintainer",
-                    "contributor"//contributerrrrr
-                ]
+
             },
             {
                 "name": "Fisher Monk",
