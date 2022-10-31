@@ -1,10 +1,4 @@
-[
-    spykelionel_socials = {
-        "twitter_handle": "spykelionel",
-        "likedin_handle": "ndilionel6",
-        "telegram_handle": "spykelionel",
-        "instagram": "spykelionel"
-    },
+
     baimamboukar_socials = {
 	"twitter_handle": "baimamjj",
 	"likedin_handle": "baimamboukar",
