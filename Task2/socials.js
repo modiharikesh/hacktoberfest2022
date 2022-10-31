@@ -1,11 +1,5 @@
-[
-    spykelionel_socials = {
-        "twitter_handle": "spykelionel",
-	    "twitter_handle": "spykelionel",
-        "likedin_handle": "ndilionel6",
-        "telegram_handle": "spykelionel",
-        "instagram": "spykelionel"
-    },
+
+
     baimamboukar_socials = {
 	"twitter_handle": "baimamjj",
 	"likedin_handle": "baimamboukar",
@@ -25,16 +19,9 @@
         "instagram": ""
 	    
 	        rupali_codes_socials = {
-        "twitter_handle": "harikesh",
-        "likedin_handle": "zaras",
-        "telegram_handle": "fara",
-        "instagram": ""
-    },
+ 
    imyogeshgaur_socials = {
-        "twitter_handle": "imyogeshgaur",
-        "likedin_handle": "imyogeshgaur",
-        "facebook": "",
-        "telegram_handle": "imyogeshgaur"
+ 
     },
    shubh045_socials = {
         "twitter_handle": "shubhM_4",
@@ -84,6 +71,12 @@
 	"instagram": "amanfangeria",
 	"telegram_handle": "randombeo"
   },
+	spykelionel_socials = {
+        "twitter_handle": "spykelionel",
+        "likedin_handle": "ndilionel6",
+        "telegram_handle": "spykelionel",
+        "instagram": "spykelionel"
+    },
 olanishant_socials = {
   "twitter_handle": "NishantOla22",
   "likedin_handle": "nishant-ola-490712228",
@@ -114,6 +107,13 @@ dibyajittripathy_socials = {
     "instagram": "kshitij.v256",
     "telegram_handle": "",
   },	
+	spykelionel_socials = {
+        "twitter_handle": "spykelionel",
+        "likedin_handle": "ndilionel6",
+        "telegram_handle": "spykelionel",
+        "instagram": "spykelionel"
+    },
+    bai
  MRDHRUV_socials = {
       "twitter_handle": "",
       "likedin_handle": "dhruv-gupta-55034a228",
