@@ -14,12 +14,7 @@ For task 1, follow these instructions below:
         [
             {
                 "name": "Steve Yonkeu",
-                "github_handle": "yokwejuste",
-                "hacktoberfest_round": "third",
-                "role": [
-                    "maintainer",
-                    "contributor"
-                ]// response #0012
+
             },
             {
                 "name": "Fisher Monk",
@@ -31,8 +26,6 @@ For task 1, follow these instructions below:
             }
         ]
         ``
-- Commit the change made and push
-
         ```bash
         git commit -m "feat: added <username> as contributor"
 
