@@ -2,7 +2,7 @@
 
 ![hactoberfest 2022](https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg)
 
-### Introduction
+### Introduction.
 
 Hacktoberfest is a month-long celebration of open source software. Anyone can participate by making four pull requests to public repositories on GitHub. The goal is to get more people involved in contributing to open source projects, and to learn more about the GitHub platform.
 
