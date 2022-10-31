@@ -70,6 +70,12 @@
 	"instagram": "amanfangeria",
 	"telegram_handle": "randombeo"
   },
+	spykelionel_socials = {
+        "twitter_handle": "spykelionel",
+        "likedin_handle": "ndilionel6",
+        "telegram_handle": "spykelionel",
+        "instagram": "spykelionel"
+    },
 olanishant_socials = {
   "twitter_handle": "NishantOla22",
   "likedin_handle": "nishant-ola-490712228",
