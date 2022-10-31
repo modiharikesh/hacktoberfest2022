@@ -8,7 +8,7 @@ For this task all required information is in the [Task 3](Task3) folder. Present
 
 ## Contribution
 
-Before anything else change the branch and make a new one from the `master branch`.
+Before anything else change the branch and make a new one from the `master branch`./ohjghghack
 ```bash
         git checkout master
 
@@ -20,7 +20,7 @@ Before anything else change the branch and make a new one from the `master branc
         ["university of bamenda", "Nahpi", "2019", "present"],
         ["university of houston", "Faculty of Science", "2016", "2019"],
     ]
-```
+```//its ohk hacktoberfest
 - Commit, push and make a pull request
 ```bash
     git commit -m "feat: added educational background of <username>"

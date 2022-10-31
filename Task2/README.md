@@ -27,12 +27,16 @@ Here, all you need is put your social media handles as follows:
             "likedin_handle": "yokwejuste",
             "facebook": "yokwejuste5013",
             "telegram_handle": "googledevz"
+            "facebook": "yokwejuste5013",
+            "telegram_handle": "googledevz"
         },
         topolo_socials = {
             "twitter_handle": "topolo",
             "likedin_handle": "topolo2211772",
+            "twitter_handle": "topolo",
+            "likedin_handle": "topolo2211772",
             "facebook": "topolo0",
-            "telegram_handle": ""
+            "telegram_handle": "topple"
         }
     ]
 ```
