@@ -14,7 +14,7 @@ For this task all required information is in the [Task 4](Task4) folder. Present
 
     git branch -M task4
 ```
-- Contribute using the format below
+
 ```html
     <html>
         <head>
