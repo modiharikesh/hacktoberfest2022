@@ -18,7 +18,7 @@ For task 1, follow these instructions below:
                 "hacktoberfest_round": "third",
                 "role": [
                     "maintainer",
-                    "contributor"
+                    "contributor"//contributerrrrr
                 ]
             },
             {
@@ -31,8 +31,6 @@ For task 1, follow these instructions below:
             }
         ]
         ``
-- Commit the change made and push
-
         ```bash
         git commit -m "feat: added <username> as contributor"
 
