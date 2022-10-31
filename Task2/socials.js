@@ -4,6 +4,10 @@
         "likedin_handle": "ndilionel6",
         "telegram_handle": "spykelionel",
         "instagram": "spykelionel"
+    },\        "twitter_handle": "spykelionel",
+        "likedin_handle": "ndilionel6",
+        "telegram_handle": "spykelionel",
+        "instagram": "spykelionel"
     },
     baimamboukar_socials = {
 	"twitter_handle": "baimamjj",
