@@ -1,4 +1,4 @@
-
+[
     ["university of mauritius", "Computer Science", "2018", "2021"],
     ["university of bamenda", "Nahpi", "2019", "present"],
     ["university of bamenda", "Nahpi", "2019", "present"],
@@ -30,4 +30,5 @@
     ["Vivekanand Education Society Institute of Technology","Bachelor of Engineering","2020","present"],
     ["University Ninth of July","Bachelor of Engineering","2017","2021"],
     ["university of Buea", "Faculty of Engineering and Technology", "2020", "present"],
+    ["International Institute of Information Technology Hyderabad", "MTech", "2016", "2018"]
 ]
